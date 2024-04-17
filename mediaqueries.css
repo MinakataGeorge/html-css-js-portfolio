@@ -1,4 +1,4 @@
-/*This is gonna gave us a max width of 1200px to disapear is the width goes up to those measuments */
+/*This is gonna gave us a max width of 1200px to disapear is the width goes down to those measuments */
 @media screen and (max-width: 1200px){
     #desktop-nav {
         display: none;
